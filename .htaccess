@@ -7,6 +7,7 @@ RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html [NC,L]
 ErrorDocument 404 http://solidgraphics.net/wrong_page
 Rewriterule ^wrong_page$ 404.html 
+Rewriterule ^home$ index.php
 ##Force SSL
 #Normal way (in case you need to deploy to NON-heroku)
 RewriteCond %{HTTPS} !=on
