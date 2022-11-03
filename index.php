@@ -1026,7 +1026,7 @@ T-shirts
         <!-- / .container -->
 
     </footer>
-    <div> <a href="https://wa.me/23276585150" class="back-top btn btn-success" target="_blank"><i class="fab fa-whatsapp text-white "></i></a> </div>
+    <!-- <div> <a href="https://wa.me/23276585150" class="back-top btn btn-success" target="_blank"><i class="fab fa-whatsapp text-white "></i></a> </div> -->
     <script src="contact.js"></script>
     <script src="inputAlert.js"></script>
     <script data-cfasync="false" type="text/javascript" src="form-submission-handler.js"></script>
